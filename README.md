@@ -1,5 +1,5 @@
 
-Compatible with Ubuntu servers
+Compatible with Ubuntu servers & Python >= 3.6
 
 ```
 python3 -m venv ./venv
